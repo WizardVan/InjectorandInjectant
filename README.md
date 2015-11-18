@@ -1,0 +1,1 @@
+InjectorandInjectant contains a lot of samples about Injection.It includes DLL injection and thread injection.Of course they are not very common today but you can understand what is behind it. InjectorandInjectant 包含了数个注入用的小例子，包括了线程注入和DLL注入的简单实例，可以让你了解背后的具体原理。
